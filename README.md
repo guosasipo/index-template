@@ -1,2 +1,1 @@
-# index-template
- Template of web protal
+# Live-demo: https://summitesports.kr
